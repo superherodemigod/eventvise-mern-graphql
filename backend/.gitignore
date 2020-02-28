@@ -1,0 +1,17 @@
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore Byebug command history file.
+.DS_Store
+
+/node_modules
+/dist
+npm-debug.log
+
+/json
+# users.json
+# db.json

@@ -1,0 +1,5 @@
+.git
+.idea
+comics/*
+src/object_detection
+node_modules

@@ -1,0 +1,40 @@
+scalar Upload
+
+type Query {
+    getProjects: [Project]
+    getUsers: [User]
+    getUser(nickname: String!): User
+    userAuth(login: String!, password: String!): String!
+}
+
+type Mutation {
+    addProject(title: String, user: String!, file: Upload, date: String): Int
+    downloadProject(json: Upload): String
+    addTag(nickname: String!, tag: String): User!
+    addUser(nickname: String!, email: String!, type: String!, password: String!, tags: String): String
+    removeUser(nickname: String!): String
+    removeUserAnimation(nickname: String!, animation: String!): String
+}
+
+type Project {
+    id: String
+    title: String
+    download: Int
+    view: Int
+    date: String
+    json: String
+}
+
+type User {
+    nickname: String!
+    password: String!
+    email: String!
+    type: String!
+    tags: String
+    projects: [Project]
+}
+
+schema {
+    query: Query
+    mutation: Mutation
+}

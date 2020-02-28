@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.113025cb.chunk.css",
+    "main.js": "/static/js/main.05d6bb7d.chunk.js",
+    "main.js.map": "/static/js/main.05d6bb7d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1a77ed4f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1a77ed4f.js.map",
+    "static/css/2.5b7d99f3.chunk.css": "/static/css/2.5b7d99f3.chunk.css",
+    "static/js/2.dd20b948.chunk.js": "/static/js/2.dd20b948.chunk.js",
+    "static/js/2.dd20b948.chunk.js.map": "/static/js/2.dd20b948.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.31a8daf0f5968eb361b419cd29f706a3.js": "/precache-manifest.31a8daf0f5968eb361b419cd29f706a3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.5b7d99f3.chunk.css.map": "/static/css/2.5b7d99f3.chunk.css.map",
+    "static/css/main.113025cb.chunk.css.map": "/static/css/main.113025cb.chunk.css.map",
+    "static/js/2.dd20b948.chunk.js.LICENSE.txt": "/static/js/2.dd20b948.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/vuesax-login-bg.eb4e894d.jpg",
+    "static/media/forgot-password.png": "/static/media/forgot-password.63f5a96a.png",
+    "static/media/google.svg": "/static/media/google.222e25f5.svg",
+    "static/media/login.png": "/static/media/login.fd58a052.png",
+    "static/media/logo.png": "/static/media/logo.9ce65707.png",
+    "static/media/register.jpg": "/static/media/register.23d1bae7.jpg",
+    "static/media/reset-password.png": "/static/media/reset-password.01a139f9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a77ed4f.js",
+    "static/css/2.5b7d99f3.chunk.css",
+    "static/js/2.dd20b948.chunk.js",
+    "static/css/main.113025cb.chunk.css",
+    "static/js/main.05d6bb7d.chunk.js"
+  ]
+}
