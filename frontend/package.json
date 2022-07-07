@@ -52,7 +52,7 @@
     "lz-string": "^1.4.4",
     "lzutf8": "^0.5.5",
     "match-sorter": "~4.0.2",
-    "moment": "~2.24.0",
+    "moment": "~2.29.4",
     "namor": "^2.0.2",
     "postcss-rtl": "^1.5.0",
     "prismjs": "^1.19.0",
